@@ -45,3 +45,10 @@ body{
     height: auto;
     vertical-align: middle;
 }
+
+#fooder{
+    background:cyan;
+    color: ghostwhie;
+    text-align: center;
+    padding: 0.5em;
+}
